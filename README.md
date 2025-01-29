@@ -4,17 +4,11 @@ This is a temporary repository for the reviewing process of paper: Junkai Tan, S
 
 ![structure](hardware_V2.png)
 ## Implementation
-
-Hardware experiments were conducted using an X150 quadcopter with:
-- RK3566 processor (1.80 GHz)
-- 4 GB RAM
-- Position tracking via 8-camera OptiTrack system
-
-The experimental setup includes:
-- Two-player nonzero-sum game for 3D trajectory tracking
-- FT safe optimal controllers computed on workstation (Intel i7-12700 CPU, 32 GB RAM)
-- 30 Hz control frequency (Δt ≈ 0.033s)
-- Control inputs as velocity commands via 5GHz WiFi
+Hardware setup:
+- X150 quadcopter with RK3566 (1.80 GHz) processor and 4GB RAM
+- OptiTrack system (8 cameras) for position tracking
+- Control inputs via 5GHz WiFi at 30 Hz
+- Controllers computed on i7-12700 workstation
 
 ## Structure
 The data folder contains the experimental data used in the paper. The code folder contains the Matlab code for the FT-SRL algorithm and the quadcopter control.
