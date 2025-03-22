@@ -1,6 +1,27 @@
 # FT-SRL-Quadcopter
 
-This is a temporary repository for the reviewing process of paper: Junkai Tan, Shuangsi Xue, et al. ``Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems``(Submitted to Information Sciences)
+<!-- # Repository for "Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems" -->
+
+This repository contains the code and experimental data for our paper: ["Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems"](https://link.springer.com/article/10.1007/s11071-025-11021-6) published in the *Information Sciences* journal.
+
+## Citation
+
+If you use this code or find our research helpful, please cite our paper:
+
+```bibtex
+@article{Tan2025,
+    author = {Tan, Junkai and Xue, Shuangsi and Guan, Qingshan and Qu, Kai and Cao, Hui},
+    title = {Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems},
+    journal = {Information Sciences},
+    year = {2025},
+    doi = {10.1016/j.ins.2024.120264}
+}
+```
+
+## Overview
+
+This project implements a finite-time safe reinforcement learning approach for quadcopter control systems in a multi-player nonzero-sum game framework. The implementation includes both hardware experiments and simulation code.
+
 
 ![structure](hardware_V2.png)
 ## Implementation
