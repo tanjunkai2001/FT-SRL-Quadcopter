@@ -1,4 +1,4 @@
-# FT-SRL-Quadcopter
+# Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems
 
 <!-- # Repository for "Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems" -->
 
