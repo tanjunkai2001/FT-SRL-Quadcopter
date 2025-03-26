@@ -27,7 +27,7 @@ If you use this code or find our research helpful, please cite our paper:
 
 This project implements a finite-time safe reinforcement learning approach for quadcopter control systems in a multi-player nonzero-sum game framework. The implementation includes both hardware experiments and simulation code.
 
-
+![structure](unmanned_systems_control2.png)
 ![structure](hardware_V2.png)
 ## Implementation
 Hardware setup:
