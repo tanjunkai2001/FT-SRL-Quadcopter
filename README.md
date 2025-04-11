@@ -5,7 +5,7 @@
 This repository contains the code and experimental data for our paper: ["Finite-time Safe Reinforcement Learning Control of Multi-player Nonzero-sum Game for Quadcopter Systems"](https://www.sciencedirect.com/science/article/pii/S002002552500249X) published in the *Information Sciences* journal (March 2025).
 
 + Details of the paper can be found at: [Junkai Tan's Publications](https://tanjunkai2001.github.io/publications/)
-+ Download the paper at: [Download pdf](https://tanjunkai2001.github.io/assets/Finite-time%20Safe%20Reinforcement%20Learning%20Control%20of%20Multi-player%20Nonzero-Sum%20Game%20for%20Quadcopter%20Systems.pdf)
++ Download the paper at: [Download pdf](https://tanjunkai2001.github.io/assets/Finite-time%20safe%20reinforcement%20learning%20control%20of%20multi-player%20nonzero-sum%20game%20for%20quadcopter%20systems.pdf)
 
 ## Citation
 
